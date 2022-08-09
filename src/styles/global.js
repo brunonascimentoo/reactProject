@@ -19,6 +19,11 @@ body, input, button, textarea{
 img{
   max-width: 100%;
   display: block;
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.3);
 }
 
 html{
@@ -31,7 +36,8 @@ button, a{
 }
 
 button:hover, a:hover{
- filter: brightness(0.9);
+  background-color: #222;
+ filter: brightness(1);
 }
 
 a{

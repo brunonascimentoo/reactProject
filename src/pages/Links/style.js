@@ -21,12 +21,12 @@ header {
         height: 92.59px;
         margin-bottom: 15px;
         padding: 3px;
-        border: 3px solid #4263EB;
+        border: 3px solid #fff;
 
     }
 
     h3, span {
-        color: #00082F;
+        color: #666;
         margin-bottom: 15px;
     }
 
@@ -37,7 +37,7 @@ h4 {
     font-weight: 500;
     font-size: 12px;
     line-height: 16px;
-    color: rgba(0, 8, 47, 0.6);
+    color: #666;
     margin-top: 25px;
 }
 
