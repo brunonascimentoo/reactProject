@@ -5,7 +5,7 @@ export function Links() {
     return (
         <Container>
        <header>
-       <img src='https://github.com/capbruno.png' />
+       <img src='https://github.com/brunonascimentoo.png' />
        <h3>Bruno Nascimento</h3>
        <span>@brunonnascimento_</span>
        </header>
